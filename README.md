@@ -1,1 +1,1 @@
-# springcloud2020-config
+# springcloud2020-config-配置中心
